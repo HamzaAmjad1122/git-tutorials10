@@ -1,0 +1,108 @@
+li.nav-item.active{
+    color: #3d2514;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 5px;
+    
+}
+
+
+.section-2 h5{
+    border-style: dashed;
+    text-align: center;
+}
+.section-2 h1{
+    color: #3d2514;
+    font-weight: 800;
+    font-size: 106px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    
+}
+
+.section-2 h3{
+    color: #3d2514;
+    letter-spacing: 2px;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.section-2 img{
+    
+
+}
+header.nav-header {
+    background-image: url(assets3/img3/bg.png);
+    background-size: cover;
+    min-height: 750px;
+    background-position: center;
+}
+
+.section-4 .btn{
+    background-color: #ffc045;
+    color: #3d2514;
+    padding: 15px 28px;
+    font-weight: 650;
+    
+}
+.section-4 h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+    font-size: 80px;
+    color: #3d2514;
+}
+.btn-1{
+    padding: 15px 28px;
+    font-weight: 650;
+    background-color:#bf2222;
+    color: #fff;
+
+}
+
+.section-5 h5{
+    color: #3d3d3d;
+}
+
+.section-5 h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    color: #3d2514;
+}
+
+.events-div{
+    box-shadow: 0 0 15px black;
+}
+.order-now-btn{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cold-drink-img{
+    margin-top: 120px;
+    left: 150px;
+    
+}
+.ketchup-img{
+    margin-top: 190px;
+    right: 2%;
+}
+
+
+.bg-footer{
+    background-image: url(assets3/img3/bg1.png);
+    background-size: cover;
+    min-height: 700px;
+    
+}
+
+   
+.company-img{
+    margin-top: 270px;
+}
+
+.bg-footer span{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    
+}
+
